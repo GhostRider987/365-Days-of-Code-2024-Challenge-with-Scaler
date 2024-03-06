@@ -8,10 +8,3 @@ Let's learn and grow together! If you have any suggestions, improvements, or jus
 LinkedIn : www.linkedin.com/in/abhishek-gupta-57568b228
 
 Happy coding! 🖥️💻
-
-
-# Scaler 365 Days of Code 2024
-
-|  Day  |  Problem  |  Solution  |  Level  |
-|:-----:|:-----------|:-----------:|:-------:|
-|  **Day 001**  |  [Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)  |  [Solution](https://github.com/GhostRider987/365-Days-of-Code-2024-Challenge-with-Scaler/blob/main/Problems/Day_001.cpp)  |  Easy  |
