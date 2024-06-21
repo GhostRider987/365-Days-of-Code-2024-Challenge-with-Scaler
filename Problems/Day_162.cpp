@@ -5,8 +5,6 @@ string Solution::solve(string A) {
             s+=(A[i]-32);
         else if(A[i]>='A' and A[i]<='Z')
             s+=(A[i]+32);
-        else
-            s+=A[i];
     }
     return s;
 }
